@@ -1,0 +1,7 @@
+- 👋 Hi there, my name is Monty Whishaw. I am a student at UWE Bristol, UK. I am in my third year of studying Audio and Music Technology (BSc)
+- 👀 I’m interested in interactive audio, audio programming, and UI design
+- 🌱 I’m currently learning JUCE and Unity
+- 💞️ I’m looking to collaborate on ...
+- 📫 LinkedIn: @montaguewh
+- 😄 Pronouns: preferably just my name, Monty
+- ⚡ Fun fact: I play guitar and bass and I am new to self-defence classes
